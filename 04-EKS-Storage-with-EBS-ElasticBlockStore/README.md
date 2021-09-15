@@ -8,6 +8,8 @@
 2. Create MySQL Database Deployment & ClusterIP Service
 3. Create User Management Microservice Deployment & NodePort Service
 
+![image](https://user-images.githubusercontent.com/72263813/133408483-d219e357-67b8-4d16-be9c-ba939dfe10aa.png)
+
 ## Concepts
 | Kubernetes Object  | YAML File |
 | ------------- | ------------- |
